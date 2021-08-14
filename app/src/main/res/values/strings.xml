@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCount</string>
+    <string name="edit_text_hint">Please enter the text</string>
+    <string name="counter_start">0</string>
+    <string name="load">Load Text</string>
+    <string name="motorway">With so many ways to sell your car, it can be overwhelming. At Motorway, we’re focused on building the best way. Our vision is to build a better car market for everyone.</string>
+</resources>
